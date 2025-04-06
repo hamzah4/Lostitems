@@ -12,7 +12,7 @@ Try phoning this person if it's my lost phone. Or I do not answer.
 
 Or this person.
 
-# 07564234533 , if I do not answer and you can not reach my other person. This is my person.
+# 07564234533 , if I do not answer and you can not reach my other person. This is my friend.
 
 Say this - Hi is this qadir , I have your friend Hamzahs (Lost item). 
 He will be able to help.
