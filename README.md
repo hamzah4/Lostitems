@@ -1,4 +1,4 @@
-# Lost items
+# Lost items - Scan this to contact the owner – reward if returned 😊
 # Thanks for finding my lost item
 
 ## 🌍 Available in Other Languages
