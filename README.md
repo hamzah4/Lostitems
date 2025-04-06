@@ -1,5 +1,14 @@
 # Lost items
 # Thanks for finding my lost item
+
+## 🌍 Available in Other Languages
+
+- 🇬🇧 [English (Main)](https://github.com/hamzah4/Lostitems/blob/main/README.md)
+- 🇮🇳 [Hindi (हिंदी)](https://github.com/hamzah4/Lostitems/blob/main/HINDI-hindiEnglish-raiadmai.md)
+- 🇪🇸 [Spanish (Español)](https://github.com/hamzah4/Lostitems/blob/main/LEEME.md)
+- 🇸🇦 [Arabic (العربية)](https://github.com/hamzah4/Lostitems/blob/main/اقرأني.md)
+- 🇨🇳 [Chinese (中文)](https://github.com/hamzah4/Lostitems/blob/main/自述文件.md)
+## please scroll down.
 If you found my lost item and scanned the qr code - looks like a fancy barcode , thank you.
 You are close to finding the owner. Heres my contacts. 
 ## owner details
